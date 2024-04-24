@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='mysqlLibRan',
-    version='0.0.2',
+    version='0.0.4',
     author='Narek24IS',
     author_email='narekd192@gmail.com',
     description='This is the simplest module for quick work with files.',

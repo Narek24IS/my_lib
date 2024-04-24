@@ -1,1 +1,1 @@
-from narek import *
+from guides import *
